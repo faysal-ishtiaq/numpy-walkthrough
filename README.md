@@ -1,0 +1,2 @@
+# numpy-walkthrough
+practising numpy
